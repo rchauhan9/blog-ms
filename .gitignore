@@ -32,3 +32,7 @@ posts/package-lock.json
 /client/npm-debug.log*
 /client/yarn-debug.log*
 /client/yarn-error.log*
+/event-bus/package-lock.json
+/event-bus/node_modules/
+/query/node_modules/
+/query/package-lock.json
